@@ -1,0 +1,5 @@
+1 Task command: node task1.js
+2 Task command: node mapExample.js
+3 Task command: node filterExample.js
+4 Task command: node filterAndMapExample.js
+5 Task command: node reduceExample.js
